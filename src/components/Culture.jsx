@@ -58,13 +58,13 @@ const Culture = () => {
           </p>
         </div>
         {/* <div className=""> */}
-        <iframe
+        {/* <iframe
           width="200rem"
           height="200rem"
           className="mx-auto  rounded-lg "
           src="https://www.instagram.com/lobtrans/embed"
           frameborder="0"
-        ></iframe>
+        ></iframe> */}
         {/* </div> */}
       </div>
     </>
